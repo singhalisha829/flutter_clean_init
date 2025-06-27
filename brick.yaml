@@ -1,0 +1,8 @@
+name: flutter_template
+description: A Flutter init project with clean architecture and dev/prod flavors
+version: 0.1.0
+
+vars:
+  project_name:
+    type: string
+    description: Your Flutter project name
