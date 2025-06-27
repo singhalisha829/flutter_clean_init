@@ -1,4 +1,4 @@
-name: flutter_init
+name: flutter_clean_init
 description: A Flutter init project with clean architecture and dev/prod flavors
 vars:
   project_name:
