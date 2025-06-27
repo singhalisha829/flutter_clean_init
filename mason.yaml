@@ -1,0 +1,6 @@
+name: flutter_init
+description: A Flutter init project with clean architecture and dev/prod flavors
+vars:
+  project_name:
+    type: string
+    description: Your Flutter project name
